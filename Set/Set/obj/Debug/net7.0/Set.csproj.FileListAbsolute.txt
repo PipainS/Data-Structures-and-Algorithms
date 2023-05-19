@@ -1,0 +1,15 @@
+C:\Users\Раиль\source\repos\Set\Set\bin\Debug\net7.0\Set.exe
+C:\Users\Раиль\source\repos\Set\Set\bin\Debug\net7.0\Set.deps.json
+C:\Users\Раиль\source\repos\Set\Set\bin\Debug\net7.0\Set.runtimeconfig.json
+C:\Users\Раиль\source\repos\Set\Set\bin\Debug\net7.0\Set.dll
+C:\Users\Раиль\source\repos\Set\Set\bin\Debug\net7.0\Set.pdb
+C:\Users\Раиль\source\repos\Set\Set\obj\Debug\net7.0\Set.csproj.AssemblyReference.cache
+C:\Users\Раиль\source\repos\Set\Set\obj\Debug\net7.0\Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Раиль\source\repos\Set\Set\obj\Debug\net7.0\Set.AssemblyInfoInputs.cache
+C:\Users\Раиль\source\repos\Set\Set\obj\Debug\net7.0\Set.AssemblyInfo.cs
+C:\Users\Раиль\source\repos\Set\Set\obj\Debug\net7.0\Set.csproj.CoreCompileInputs.cache
+C:\Users\Раиль\source\repos\Set\Set\obj\Debug\net7.0\Set.dll
+C:\Users\Раиль\source\repos\Set\Set\obj\Debug\net7.0\refint\Set.dll
+C:\Users\Раиль\source\repos\Set\Set\obj\Debug\net7.0\Set.pdb
+C:\Users\Раиль\source\repos\Set\Set\obj\Debug\net7.0\Set.genruntimeconfig.cache
+C:\Users\Раиль\source\repos\Set\Set\obj\Debug\net7.0\ref\Set.dll
