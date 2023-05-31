@@ -1,0 +1,15 @@
+C:\Users\Раиль\github\Sorting\Sorting\bin\Debug\net7.0\Sorting.exe
+C:\Users\Раиль\github\Sorting\Sorting\bin\Debug\net7.0\Sorting.deps.json
+C:\Users\Раиль\github\Sorting\Sorting\bin\Debug\net7.0\Sorting.runtimeconfig.json
+C:\Users\Раиль\github\Sorting\Sorting\bin\Debug\net7.0\Sorting.dll
+C:\Users\Раиль\github\Sorting\Sorting\bin\Debug\net7.0\Sorting.pdb
+C:\Users\Раиль\github\Sorting\Sorting\obj\Debug\net7.0\Sorting.csproj.AssemblyReference.cache
+C:\Users\Раиль\github\Sorting\Sorting\obj\Debug\net7.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Раиль\github\Sorting\Sorting\obj\Debug\net7.0\Sorting.AssemblyInfoInputs.cache
+C:\Users\Раиль\github\Sorting\Sorting\obj\Debug\net7.0\Sorting.AssemblyInfo.cs
+C:\Users\Раиль\github\Sorting\Sorting\obj\Debug\net7.0\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Раиль\github\Sorting\Sorting\obj\Debug\net7.0\Sorting.dll
+C:\Users\Раиль\github\Sorting\Sorting\obj\Debug\net7.0\refint\Sorting.dll
+C:\Users\Раиль\github\Sorting\Sorting\obj\Debug\net7.0\Sorting.pdb
+C:\Users\Раиль\github\Sorting\Sorting\obj\Debug\net7.0\Sorting.genruntimeconfig.cache
+C:\Users\Раиль\github\Sorting\Sorting\obj\Debug\net7.0\ref\Sorting.dll
