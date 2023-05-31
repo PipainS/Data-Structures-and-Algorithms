@@ -1,0 +1,15 @@
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.exe
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.deps.json
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.runtimeconfig.json
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.dll
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\bin\Debug\net7.0\SingleLinkedList.pdb
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.csproj.AssemblyReference.cache
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.AssemblyInfoInputs.cache
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.AssemblyInfo.cs
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.dll
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\refint\SingleLinkedList.dll
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.pdb
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\SingleLinkedList.genruntimeconfig.cache
+C:\Users\Раиль\github\SingleLinkedList\SingleLinkedList\obj\Debug\net7.0\ref\SingleLinkedList.dll
