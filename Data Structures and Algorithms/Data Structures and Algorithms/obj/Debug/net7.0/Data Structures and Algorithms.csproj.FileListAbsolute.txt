@@ -1,0 +1,30 @@
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net7.0\Data Structures and Algorithms.exe
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net7.0\Data Structures and Algorithms.deps.json
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net7.0\Data Structures and Algorithms.runtimeconfig.json
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net7.0\Data Structures and Algorithms.dll
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net7.0\Data Structures and Algorithms.pdb
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.csproj.AssemblyReference.cache
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.AssemblyInfoInputs.cache
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.AssemblyInfo.cs
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.dll
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\refint\Data Structures and Algorithms.dll
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.pdb
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.genruntimeconfig.cache
+C:\Users\Раиль\source\repos\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\ref\Data Structures and Algorithms.dll
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net7.0\Data Structures and Algorithms.exe
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net7.0\Data Structures and Algorithms.deps.json
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net7.0\Data Structures and Algorithms.runtimeconfig.json
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net7.0\Data Structures and Algorithms.dll
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\bin\Debug\net7.0\Data Structures and Algorithms.pdb
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.csproj.AssemblyReference.cache
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.AssemblyInfoInputs.cache
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.AssemblyInfo.cs
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.dll
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\refint\Data Structures and Algorithms.dll
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.pdb
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\Data Structures and Algorithms.genruntimeconfig.cache
+C:\Users\Раиль\Desktop\4216-2023 АиСД Шарипов Р.Р — копия\Data Structures and Algorithms\Data Structures and Algorithms\obj\Debug\net7.0\ref\Data Structures and Algorithms.dll
