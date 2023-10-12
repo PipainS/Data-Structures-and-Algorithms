@@ -1,0 +1,15 @@
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\bin\Debug\net7.0\AVLTreeCopy.exe
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\bin\Debug\net7.0\AVLTreeCopy.deps.json
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\bin\Debug\net7.0\AVLTreeCopy.runtimeconfig.json
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\bin\Debug\net7.0\AVLTreeCopy.dll
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\bin\Debug\net7.0\AVLTreeCopy.pdb
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\obj\Debug\net7.0\AVLTreeCopy.csproj.AssemblyReference.cache
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\obj\Debug\net7.0\AVLTreeCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\obj\Debug\net7.0\AVLTreeCopy.AssemblyInfoInputs.cache
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\obj\Debug\net7.0\AVLTreeCopy.AssemblyInfo.cs
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\obj\Debug\net7.0\AVLTreeCopy.csproj.CoreCompileInputs.cache
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\obj\Debug\net7.0\AVLTreeCopy.dll
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\obj\Debug\net7.0\refint\AVLTreeCopy.dll
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\obj\Debug\net7.0\AVLTreeCopy.pdb
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\obj\Debug\net7.0\AVLTreeCopy.genruntimeconfig.cache
+C:\Users\Раиль\source\repos\AVLTreeCopy\AVLTreeCopy\obj\Debug\net7.0\ref\AVLTreeCopy.dll
