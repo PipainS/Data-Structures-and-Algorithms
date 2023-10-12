@@ -1,0 +1,67 @@
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\Numerical method.exe
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\Numerical method.deps.json
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\Numerical method.runtimeconfig.json
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\Numerical method.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\Numerical method.pdb
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\Numerical method.csproj.AssemblyReference.cache
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\Numerical method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\Numerical method.AssemblyInfoInputs.cache
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\Numerical method.AssemblyInfo.cs
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\Numerical method.csproj.CoreCompileInputs.cache
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\Numerical method.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\refint\Numerical method.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\Numerical method.pdb
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\Numerical method.genruntimeconfig.cache
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\ref\Numerical method.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\System.Windows.Forms.DataVisualization.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\System.Windows.Forms.Design.Editors.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\System.Windows.Forms.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\System.Windows.Forms.Primitives.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\Accessibility.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\System.Windows.Forms.Design.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\cs\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\de\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\es\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\fr\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\it\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\ja\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\ko\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\pl\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\pt-BR\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\ru\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\tr\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\zh-Hans\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\zh-Hant\System.Windows.Forms.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\cs\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\de\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\es\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\fr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\it\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\ja\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\ko\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\pl\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\pt-BR\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\ru\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\tr\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\cs\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\de\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\es\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\fr\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\it\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\ja\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\ko\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\pl\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\pt-BR\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\ru\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\tr\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\zh-Hans\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\bin\Debug\net7.0\zh-Hant\System.Windows.Forms.Design.resources.dll
+C:\Users\Раиль\source\repos\Numerical method\Numerical method\obj\Debug\net7.0\Numerical method.csproj.CopyComplete
